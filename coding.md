@@ -11,3 +11,8 @@
 
 ## 2. 文本编辑器
 
+> * VS Code
+> * Typora
+> * Obsian
+> * 
+
